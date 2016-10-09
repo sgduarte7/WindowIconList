@@ -1,0 +1,455 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# SGD....
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Window List Group 2.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-16 23:04+0800\n"
+"PO-Revision-Date: 2016-10-16 00:00S-0600\n"
+"Last-Translator: Sócrates G. Duarte <sgduarte7@gmail.com>\n"
+"Language-Team: jake-phy <jake.phy@gmail.com>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: specialMenus.js:74
+#, c-format
+msgid "Move to monitor %d"
+msgstr "Mover para monitorar %d"
+
+#: specialMenus.js:91
+msgid "Close All"
+msgstr "Fechar tudo"
+
+#: specialMenus.js:94
+msgid "Close"
+msgstr "Fechar"
+
+#: specialMenus.js:97 specialMenus.js:492
+msgid "Minimize"
+msgstr "Minimizar"
+
+#: specialMenus.js:100 specialMenus.js:489
+msgid "Maximize"
+msgstr "Maximizar"
+
+#: specialMenus.js:103
+msgid "Move to left workspace"
+msgstr "Mover para área de trabalho à esquerda"
+
+#: specialMenus.js:106
+msgid "Move to right workspace"
+msgstr "Mover para área de trabalho à direita"
+
+#: specialMenus.js:109 specialMenus.js:479
+msgid "Visible on all workspaces"
+msgstr "Visível em todas as áreas de trabalho"
+
+#: specialMenus.js:134
+msgid "Unpin from Panel"
+msgstr "Soltar do Painel"
+
+#: specialMenus.js:137
+msgid "Pin to Panel"
+msgstr "Fixar no Panel"
+
+#: specialMenus.js:146
+msgid "Settings"
+msgstr "Configurações"
+
+#: specialMenus.js:149
+msgid "ReArrange"
+msgstr "Reordenar"
+
+#: specialMenus.js:153
+msgid "Show Pinned"
+msgstr "Mostrar Fixado"
+
+#: specialMenus.js:157
+msgid "Show Thumbs"
+msgstr "Mostrar Miniaturas"
+
+#: specialMenus.js:161
+msgid "Stack Thumbs"
+msgstr "Aplicar Miniaturas"
+
+#: specialMenus.js:165
+msgid "Hover to Peek"
+msgstr "Visualizar quando mouse está em cima"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->show-
+#. recent->description
+#: specialMenus.js:169
+msgid "Show Recent"
+msgstr "Mostrar recentes"
+
+#: specialMenus.js:173
+msgid "Vertical Thumbs"
+msgstr "Miniaturas verticais"
+
+#: specialMenus.js:177
+msgid "   Go to Settings"
+msgstr " Vamos as configurações"
+
+#: specialMenus.js:263
+msgid "Install Gda"
+msgstr "Instalar Gda"
+
+#: specialMenus.js:475
+msgid "Only on this workspace"
+msgstr "Somente sobre esta área de trabalho"
+
+#: specialMenus.js:487
+msgid "Unmaximize"
+msgstr "desmaximizar"
+
+#: specialMenus.js:491
+msgid "Restore"
+msgstr "Restaurar"
+
+#. WindowListGroup@jake.phy@gmail.com->metadata.json->description
+msgid "Window List with App Grouping an Window Thumbnails"
+msgstr "Lista de Janela com App Agrupando com Janela em Miniaturas"
+
+#. WindowListGroup@jake.phy@gmail.com->metadata.json->name
+msgid "Window List With App Grouping"
+msgstr "Lista de Janelas Com App Agrupado"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->thumbnail-
+#. size->description
+msgid "Thumbnail Size:"
+msgstr "Tamanho de Miniatura:"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->thumbnail-
+#. size->tooltip
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->hover-peek-
+#. opacity->tooltip
+msgid "Opacity of the windows on peek."
+msgstr "Opacidade de Janelas de visualização."
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->thumbnail-
+#. size->units
+msgid "size"
+msgstr "Tamanho"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->closeall-menu-
+#. item->description
+msgid "Close All Menu Items"
+msgstr "Feche Todos os Itens do Menu"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->closeall-menu-
+#. item->tooltip
+msgid "Show a 'Close All' menu item to close all windows for an app."
+msgstr "Mostrar um item de menu 'Fechar Tudo' para fechar todas as janelas de um aplicativo."
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->show-
+#. thumbnails->description
+msgid "Show Thumbnails"
+msgstr "Mostrar Miniaturas"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->show-
+#. thumbnails->tooltip
+msgid "Show the Thumbnail Windows"
+msgstr "Mostrar Miniaturas de Janelas"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->hover-peek-
+#. time->description
+msgid "Window fade time:"
+msgstr "Tempo de desvanecimiento de Janela:"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->hover-peek-
+#. time->tooltip
+msgid "The animation time for the windows on hover peek"
+msgstr "Tempo de animação de Janela, ao realizar visualização"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->hover-peek-
+#. time->units
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->thumbnail-
+#. timeout->units
+msgid "milliseconds"
+msgstr "milisegundos"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->appmenu-
+#. number->description
+msgid "Number of Menu Items:"
+msgstr "Número de itens de menu:"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->appmenu-
+#. number->tooltip
+msgid "The number of AppMenu Items"
+msgstr "O número de itens do AppMenu"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->appmenu-
+#. number->units
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->appmenu-
+#. width->units
+msgid "number"
+msgstr "número"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->title-
+#. display->description
+msgid "Title Display:"
+msgstr "Título de Tela:"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->title-
+#. display->tooltip
+msgid ""
+"focused: show focused window title, title: display the window title, app: "
+"diplay app name, none: don't display anything"
+msgstr ""
+"Em Foco: Mostra o Título da Janela com Foco, título: exibir o título da janela, app: "
+"nome do aplicativo em exibição, none: não exibe nada"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->title-
+#. display->options
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->number-
+#. display->options
+msgid "none"
+msgstr "nada"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->title-
+#. display->options
+msgid "focused"
+msgstr "Em Foco"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->title-
+#. display->options
+msgid "app"
+msgstr "aplicação"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->title-
+#. display->options
+msgid "title"
+msgstr "título"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-
+#. schema.json->AppMenu->description
+msgid "AppMenu Settings"
+msgstr "AppMenu Configuração"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->sort-
+#. thumbnails->description
+msgid "Sort by last Focused"
+msgstr "Selecionar pelo Último Foco"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->sort-
+#. thumbnails->tooltip
+msgid "Show the last focused first"
+msgstr "Mostrar o último focado primeiro"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->hover-peek-
+#. opacity->description
+msgid "Window opacity:"
+msgstr "Opacidade de Janela:"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->hover-peek-
+#. opacity->units
+msgid "percent"
+msgstr "porcentagem"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->enable-hover-
+#. peek->description
+msgid "Enable hover peek"
+msgstr "Habilitar visualização quando o mouse passar sobre a área."
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->enable-hover-
+#. peek->tooltip
+msgid "Enable Hover peek when mouse is over thumbnail"
+msgstr "Ativar espiada quando o mouse estiver sobre a miniatura"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->icon-
+#. padding->description
+msgid "Icon Padding:"
+msgstr "Ícone de preenchimento:"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->icon-
+#. padding->tooltip
+msgid "How much Padding is between the icons"
+msgstr "preenchimento entre os icones"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->icon-
+#. padding->units
+msgid "padding"
+msgstr "preenchimento"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->show-
+#. pinned->description
+msgid "Show pinned apps"
+msgstr "Mostrar aplicações fixadas"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->show-
+#. pinned->tooltip
+msgid "Show the pinned apps or just show the open windows"
+msgstr "Mostrar os apps fixados ou apenas as janelas abertas"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-
+#. schema.json->WindowList->description
+msgid "Window List Settings"
+msgstr "Configuracão de Lista de Janelas"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->appmenu-
+#. width->description
+msgid "Appmenu Width"
+msgstr "Largura de Appmenu"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->appmenu-
+#. width->tooltip
+msgid "Set the width of the AppMenu."
+msgstr "Definir a largura da AppMenu."
+
+#. WindowListGroup@jake.phy@gmail.com->settings-
+#. schema.json->Thumbnails->description
+msgid "Thumbnail Settings"
+msgstr "Configuracão de Miniaturas"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->show-
+#. recent->tooltip
+msgid "Show Recent Menu Items"
+msgstr "Mostrar itens recentes do Menu"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->vertical-
+#. thumbnails->description
+msgid "Vertical Thumbnails"
+msgstr "Miniaturas verticais"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->vertical-
+#. thumbnails->tooltip
+msgid "Arrange thumbnails vertically or horizontally"
+msgstr "Organizar as miniaturas verticalmente ou horizontalmente"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->thumbnail-
+#. timeout->description
+msgid "Thumbnail timeout:"
+msgstr "Tempo de espera das miniaturas:"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->thumbnail-
+#. timeout->tooltip
+msgid "Thumbnail timeout"
+msgstr "Tempo de espera das miniaturas"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->stack-
+#. thumbnails->description
+msgid "Stack Thumbnails"
+msgstr "Empilhar Miniaturas"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->stack-
+#. thumbnails->tooltip
+msgid ""
+"Stack the Thumbnail Windows if there are to many thumbnails for the screen"
+msgstr "Empilhar as janelas em miniatura se existem muitas miniaturas para a tela"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->number-
+#. display->description
+msgid "Number Display:"
+msgstr "Mostrar Número:"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->number-
+#. display->tooltip
+msgid ""
+"normal: display window number, smart: display window number if more than one "
+"window, none: don't display number, all: display window number for favorites "
+"too"
+msgstr ""
+"normal: Exibir janela número, inteligente: Exibir janela número, se houver mais de um "
+"anela, nenhum: não exibir número, todos: Exibir janela número para favoritos"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->number-
+#. display->options
+msgid "all"
+msgstr "todos"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->number-
+#. display->options
+msgid "Smart"
+msgstr "inteligente"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->number-
+#. display->options
+msgid "normal"
+msgstr "normal"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->onclick-
+#. thumbnails->description
+msgid "Open Thumbnails OnClick"
+msgstr "Abrir Miniaturas com o click"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->onclick-
+#. thumbnails->tooltip
+msgid "Open the thumbnails on click, if there is more than 1 windows open."
+msgstr "Abra as miniaturas no clique, se há mais de 1 janela aberta."
+
+#. WindowListGroup@jake.phy@gmail.com->settings-
+#. schema.json->HoverPeek->description
+msgid "Hover Peek Settings"
+msgstr "Configuração de Visualização"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->firefox-
+#. menu->description
+msgid "Firefox AppMenu:"
+msgstr ""
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->firefox-
+#. menu->tooltip
+msgid ""
+"Most Visited: show the sites you visit most, Recent Histor: display the the "
+"last pages you visited, Bookmarks: show your favorite bookmarks"
+msgstr ""
+"Mais visitados: mostrar os sites você mais, visita a história recente: exibir o o"
+"última páginas que você visitou, marcadores: mostrar seus favoritos"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->firefox-
+#. menu->options
+msgid "Bookmarks"
+msgstr "Favoritos"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->firefox-
+#. menu->options
+msgid "Most Visited"
+msgstr "Mais Visitados"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->firefox-
+#. menu->options
+msgid "Recent History"
+msgstr "Histórico recente"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->arrange-
+#. pinnedApps->description
+msgid "Arrange pinned apps"
+msgstr "Ordenar aplicações fixas"
+
+#. WindowListGroup@jake.phy@gmail.com->settings-schema.json->arrange-
+#. pinnedApps->tooltip
+msgid "Arrange pinned apps into a different order"
+msgstr "Ordenar aplicações fixas em uma ordem diferente"
+
+msgid "Group Apps"
+msgstr "Agrupar aplicações"
+
+#~ msgid " "
+#~ msgstr " "
+
+msgid "Group apps into single icon"
+msgstr "Agrupar as aplicações em um so iconi."
+
+msgid "Group the open app instances into single icon"
+msgstr "Agrupar as instancias de aplicações abertas em um so iconi"
+
+msgid "New Window"
+msgstr "Nova Janela"
+
+msgid "Go to Settings"
+msgstr "Ir a configurações"
+
+msgid "Unpin App"
+msgstr "Desfixar aplicação"
+
+msgid "Pin App"
+msgstr "Fixar aplicação"
